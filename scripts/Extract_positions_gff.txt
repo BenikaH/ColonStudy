@@ -1,0 +1,5 @@
+
+The following two commands will extract the positions for miRNAs and genes as needed for Matrix eQTL.
+
+gff2bed < hsa.gff3 | grep - w 'miRNA' | cut -f 1-10 > miRNA_new.bed
+gff2bed < hsa.gff3 | grep - w 'gene' | cut -f 1-10 > miRNA_new.bed
