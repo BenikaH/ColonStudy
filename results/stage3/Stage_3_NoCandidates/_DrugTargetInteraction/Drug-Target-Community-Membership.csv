@@ -1,0 +1,272 @@
+"node","comm","type","geneset","leftovers"
+"INGENOL_MEBUTATE",1,"EstablishedDrug","Stage_3",0
+"AFF3",1,"Input Gene","Stage_3",0
+"ANK3",1,"Input Gene","Stage_3",0
+"ARID4B",1,"Input Gene","Stage_3",0
+"CRKL",1,"Input Gene","Stage_3",0
+"FEZ2",1,"Input Gene","Stage_3",0
+"MCFD2",1,"Input Gene","Stage_3",0
+"MSN",1,"Input Gene","Stage_3",0
+"PICALM",1,"Input Gene","Stage_3",0
+"PRKCZ",1,"Input Gene","Stage_3",0
+"RPS6KB1",1,"Input Gene","Stage_3",0
+"RQCD1",1,"Input Gene","Stage_3",0
+"SEC23A",1,"Input Gene","Stage_3",0
+"SSU72",1,"Input Gene","Stage_3",0
+"WIPF1",1,"Input Gene","Stage_3",0
+"ACTB1003",1,"NovelDrug","Stage_3",0
+"XL418",1,"NovelDrug","Stage_3",0
+"ELL2",2,"Input Gene","Stage_3",0
+"FN1",2,"Input Gene","Stage_3",0
+"HMOX2",2,"Input Gene","Stage_3",0
+"ITGA1",2,"Input Gene","Stage_3",0
+"MED8",2,"Input Gene","Stage_3",0
+"PHACTR2",2,"Input Gene","Stage_3",0
+"PKD1",2,"Input Gene","Stage_3",0
+"PPM1F",2,"Input Gene","Stage_3",0
+"TCEB1",2,"Input Gene","Stage_3",0
+"TGM2",2,"Input Gene","Stage_3",0
+"AS1409",2,"NovelDrug","Stage_3",0
+"STANNSOPORFIN",2,"NovelDrug","Stage_3",0
+"SAN_300",2,"NovelDrug","Stage_3",0
+"CFL2",3,"Input Gene","Stage_3",0
+"CKAP4",3,"Input Gene","Stage_3",0
+"EPS8",3,"Input Gene","Stage_3",0
+"ERRFI1",3,"Input Gene","Stage_3",0
+"GMFB",3,"Input Gene","Stage_3",0
+"LRP1B",3,"Input Gene","Stage_3",0
+"MPRIP",3,"Input Gene","Stage_3",0
+"MRPL20",3,"Input Gene","Stage_3",0
+"RANBP9",3,"Input Gene","Stage_3",0
+"SASH1",3,"Input Gene","Stage_3",0
+"TFAP2A",3,"Input Gene","Stage_3",0
+"TMOD3",3,"Input Gene","Stage_3",0
+"FLUTICASONE_PROPIONATE",4,"EstablishedDrug","Stage_3",0
+"PREDNISONE",4,"EstablishedDrug","Stage_3",0
+"BECLOMETHASONE",4,"EstablishedDrug","Stage_3",0
+"BETAMETHASONE",4,"EstablishedDrug","Stage_3",0
+"BUDESONIDE",4,"EstablishedDrug","Stage_3",0
+"CLOBETASOL",4,"EstablishedDrug","Stage_3",0
+"CORT_108297",4,"EstablishedDrug","Stage_3",0
+"PREDNISOLONE",4,"EstablishedDrug","Stage_3",0
+"MOMETASONE",4,"EstablishedDrug","Stage_3",0
+"DESONIDE",4,"EstablishedDrug","Stage_3",0
+"DEXAMETHASONE",4,"EstablishedDrug","Stage_3",0
+"DIFLUPREDNATE",4,"EstablishedDrug","Stage_3",0
+"BECLOMETHASONE_DIPROPIONATE",4,"EstablishedDrug","Stage_3",0
+"FLUTICASONE",4,"EstablishedDrug","Stage_3",0
+"FLUNISOLIDE",4,"EstablishedDrug","Stage_3",0
+"FLUOCINONIDE",4,"EstablishedDrug","Stage_3",0
+"FLUOCINOLONE_ACETONIDE",4,"EstablishedDrug","Stage_3",0
+"KB3305",4,"EstablishedDrug","Stage_3",0
+"LOTEPREDNOL_ETABONATE",4,"EstablishedDrug","Stage_3",0
+"MIFEPRISTONE",4,"EstablishedDrug","Stage_3",0
+"PMI_001",4,"EstablishedDrug","Stage_3",0
+"TRIAMCINOLONE",4,"EstablishedDrug","Stage_3",0
+"HE3286",4,"EstablishedDrug","Stage_3",0
+"FLUTICASONE_FUROATE",4,"EstablishedDrug","Stage_3",0
+"ALCLOMETASONE",4,"EstablishedDrug","Stage_3",0
+"AMCINONIDE",4,"EstablishedDrug","Stage_3",0
+"CICLESONIDE",4,"EstablishedDrug","Stage_3",0
+"CLOCORTOLONE",4,"EstablishedDrug","Stage_3",0
+"DESOXIMETASONE",4,"EstablishedDrug","Stage_3",0
+"DIFLORASONE",4,"EstablishedDrug","Stage_3",0
+"FLUMETHASONE_PIVALATE",4,"EstablishedDrug","Stage_3",0
+"FLUOROMETHOLONE",4,"EstablishedDrug","Stage_3",0
+"FLURANDRENOLIDE",4,"EstablishedDrug","Stage_3",0
+"HALOBETASOL_PROPIONATE",4,"EstablishedDrug","Stage_3",0
+"HYDROCORTAMATE",4,"EstablishedDrug","Stage_3",0
+"MEDRYSONE",4,"EstablishedDrug","Stage_3",0
+"METHYLPREDNISOLONE",4,"EstablishedDrug","Stage_3",0
+"PARAMETHASONE",4,"EstablishedDrug","Stage_3",0
+"PREDNICARBATE",4,"EstablishedDrug","Stage_3",0
+"RIMEXOLONE",4,"EstablishedDrug","Stage_3",0
+"NR3C1",4,"Input Gene","Stage_3",0
+"INTERFERON_BETA_1A",5,"EstablishedDrug","Stage_3",0
+"INTERFERON_ALPHA_2B",5,"EstablishedDrug","Stage_3",0
+"MODIFIED_IFN_ALPHA",5,"EstablishedDrug","Stage_3",0
+"MODIFIED_IFN_BETA",5,"EstablishedDrug","Stage_3",0
+"INTERFERON_ALFA_N3",5,"EstablishedDrug","Stage_3",0
+"INTERFERON_ALPHA",5,"EstablishedDrug","Stage_3",0
+"INTERFERON_BETA",5,"EstablishedDrug","Stage_3",0
+"INTERFERON_BETA_1B",5,"EstablishedDrug","Stage_3",0
+"PEG_INTERFERON_ALFACON_1",5,"EstablishedDrug","Stage_3",0
+"PEGINTERFERON_ALFA_2A",5,"EstablishedDrug","Stage_3",0
+"RECOMBINANT_INTERFERON_ALFA_2B",5,"EstablishedDrug","Stage_3",0
+"SIFALIMUMAB",5,"EstablishedDrug","Stage_3",0
+"INTERFERON_ALFA_2A__RECOMBINANT",5,"EstablishedDrug","Stage_3",0
+"INTERFERON_ALFA_2B__RECOMBINANT",5,"EstablishedDrug","Stage_3",0
+"INTERFERON_ALFACON_1",5,"EstablishedDrug","Stage_3",0
+"INTERFERON_ALFA_N1",5,"EstablishedDrug","Stage_3",0
+"IFNAR1",5,"Input Gene","Stage_3",0
+"LACOSAMIDE",6,"EstablishedDrug","Stage_3",0
+"DPYSL2",6,"Input Gene","Stage_3",0
+"KIAA1244",6,"Input Gene","Stage_3",0
+"MAP2",6,"Input Gene","Stage_3",0
+"MARCKS",6,"Input Gene","Stage_3",0
+"NIN",6,"Input Gene","Stage_3",0
+"PTPRE",6,"Input Gene","Stage_3",0
+"TOB1",6,"Input Gene","Stage_3",0
+"BAG5",7,"Input Gene","Stage_3",0
+"DNAJA3",7,"Input Gene","Stage_3",0
+"GTF3C4",7,"Input Gene","Stage_3",0
+"HIPK3",7,"Input Gene","Stage_3",0
+"HIVEP2",7,"Input Gene","Stage_3",0
+"MAPK7",7,"Input Gene","Stage_3",0
+"SIP1",7,"Input Gene","Stage_3",0
+"SLIT2",7,"Input Gene","Stage_3",0
+"UBR2",7,"Input Gene","Stage_3",0
+"ACVR1B",8,"Input Gene","Stage_3",0
+"ANAPC7",8,"Input Gene","Stage_3",0
+"CSNK1G3",8,"Input Gene","Stage_3",0
+"HIPK1",8,"Input Gene","Stage_3",0
+"MAP4K5",8,"Input Gene","Stage_3",0
+"PHKG2",8,"Input Gene","Stage_3",0
+"RPS6KA3",8,"Input Gene","Stage_3",0
+"TBK1",8,"Input Gene","Stage_3",0
+"CLASP1",9,"Input Gene","Stage_3",0
+"GOLGA1",9,"Input Gene","Stage_3",0
+"NADK",9,"Input Gene","Stage_3",0
+"RAB11FIP2",9,"Input Gene","Stage_3",0
+"RASSF8",9,"Input Gene","Stage_3",0
+"AC_100_DENTONIN",10,"EstablishedDrug","Stage_3",0
+"BGC20_1531",10,"EstablishedDrug","Stage_3",0
+"DINOPROSTONE",10,"EstablishedDrug","Stage_3",0
+"PTGER4",10,"Input Gene","Stage_3",0
+"ARSENIC_TRIOXIDE",11,"EstablishedDrug","Stage_3",0
+"T_5224",11,"EstablishedDrug","Stage_3",0
+"JUN",11,"Input Gene","Stage_3",0
+"NTRK2",12,"Input Gene","Stage_3",0
+"LESTAURTINIB",12,"NovelDrug","Stage_3",0
+"PYM50028",12,"NovelDrug","Stage_3",0
+"PENTOSAN_POLYSULFATE",13,"EstablishedDrug","Stage_3",1
+"TIAGABINE",13,"EstablishedDrug","Stage_3",1
+"ALG1",13,"Input Gene","Stage_3",1
+"AP1S2",13,"Input Gene","Stage_3",1
+"ARIH1",13,"Input Gene","Stage_3",1
+"ASF1A",13,"Input Gene","Stage_3",1
+"C16orf72",13,"Input Gene","Stage_3",1
+"C21orf91",13,"Input Gene","Stage_3",1
+"CASP2",13,"Input Gene","Stage_3",1
+"CCNJ",13,"Input Gene","Stage_3",1
+"CDH11",13,"Input Gene","Stage_3",1
+"COL4A3BP",13,"Input Gene","Stage_3",1
+"CYB5B",13,"Input Gene","Stage_3",1
+"DNAJC3",13,"Input Gene","Stage_3",1
+"DPY19L1",13,"Input Gene","Stage_3",1
+"DUSP1",13,"Input Gene","Stage_3",1
+"EIF5A2",13,"Input Gene","Stage_3",1
+"ELMOD2",13,"Input Gene","Stage_3",1
+"FBXO33",13,"Input Gene","Stage_3",1
+"FGF1",13,"Input Gene","Stage_3",1
+"GIT2",13,"Input Gene","Stage_3",1
+"GOLGA7",13,"Input Gene","Stage_3",1
+"GPM6A",13,"Input Gene","Stage_3",1
+"HECTD2",13,"Input Gene","Stage_3",1
+"HN1",13,"Input Gene","Stage_3",1
+"HNF1A",13,"Input Gene","Stage_3",1
+"HOXA11",13,"Input Gene","Stage_3",1
+"HOXA5",13,"Input Gene","Stage_3",1
+"IGBP1",13,"Input Gene","Stage_3",1
+"IL21R",13,"Input Gene","Stage_3",1
+"KHDRBS1",13,"Input Gene","Stage_3",1
+"KIAA1432",13,"Input Gene","Stage_3",1
+"MBOAT2",13,"Input Gene","Stage_3",1
+"MTF2",13,"Input Gene","Stage_3",1
+"MYCBP2",13,"Input Gene","Stage_3",1
+"NDOR1",13,"Input Gene","Stage_3",1
+"NFIA",13,"Input Gene","Stage_3",1
+"NOVA1",13,"Input Gene","Stage_3",1
+"NR5A2",13,"Input Gene","Stage_3",1
+"NUDT4",13,"Input Gene","Stage_3",1
+"NUP54",13,"Input Gene","Stage_3",1
+"OSTM1",13,"Input Gene","Stage_3",1
+"PDIK1L",13,"Input Gene","Stage_3",1
+"PDS5B",13,"Input Gene","Stage_3",1
+"PHACTR3",13,"Input Gene","Stage_3",1
+"PHTF2",13,"Input Gene","Stage_3",1
+"PLCL1",13,"Input Gene","Stage_3",1
+"POLK",13,"Input Gene","Stage_3",1
+"PPAP2B",13,"Input Gene","Stage_3",1
+"PPFIA1",13,"Input Gene","Stage_3",1
+"PTPN21",13,"Input Gene","Stage_3",1
+"PTPRZ1",13,"Input Gene","Stage_3",1
+"RABIF",13,"Input Gene","Stage_3",1
+"RAP2C",13,"Input Gene","Stage_3",1
+"RBFOX1",13,"Input Gene","Stage_3",1
+"RECK",13,"Input Gene","Stage_3",1
+"RHOBTB1",13,"Input Gene","Stage_3",1
+"RNF2",13,"Input Gene","Stage_3",1
+"SESN1",13,"Input Gene","Stage_3",1
+"SLC35B4",13,"Input Gene","Stage_3",1
+"SLC6A1",13,"Input Gene","Stage_3",1
+"SORBS1",13,"Input Gene","Stage_3",1
+"SYNJ1",13,"Input Gene","Stage_3",1
+"TFAP4",13,"Input Gene","Stage_3",1
+"THBD",13,"Input Gene","Stage_3",1
+"TMEFF2",13,"Input Gene","Stage_3",1
+"TRIM33",13,"Input Gene","Stage_3",1
+"TROVE2",13,"Input Gene","Stage_3",1
+"WAPAL",13,"Input Gene","Stage_3",1
+"WASF3",13,"Input Gene","Stage_3",1
+"WDFY3",13,"Input Gene","Stage_3",1
+"WHSC1",13,"Input Gene","Stage_3",1
+"YPEL2",13,"Input Gene","Stage_3",1
+"ZEB1",13,"Input Gene","Stage_3",1
+"ZEB2",13,"Input Gene","Stage_3",1
+"ZFPM2",13,"Input Gene","Stage_3",1
+"8-MAR",13,"Input Gene","Stage_3",1
+"AGFG1",13,"Input Gene","Stage_3",1
+"ARHGAP6",13,"Input Gene","Stage_3",1
+"ATL2",13,"Input Gene","Stage_3",1
+"ATP11C",13,"Input Gene","Stage_3",1
+"B3GALTL",13,"Input Gene","Stage_3",1
+"BHLHE41",13,"Input Gene","Stage_3",1
+"C11orf87",13,"Input Gene","Stage_3",1
+"C16orf93",13,"Input Gene","Stage_3",1
+"CDK17",13,"Input Gene","Stage_3",1
+"CNEP1R1",13,"Input Gene","Stage_3",1
+"CSMD3",13,"Input Gene","Stage_3",1
+"CXorf23",13,"Input Gene","Stage_3",1
+"DELTAEF1",13,"Input Gene","Stage_3",1
+"DENND5B",13,"Input Gene","Stage_3",1
+"EDEM3",13,"Input Gene","Stage_3",1
+"FAM122C",13,"Input Gene","Stage_3",1
+"FAM134B",13,"Input Gene","Stage_3",1
+"FAM160B1",13,"Input Gene","Stage_3",1
+"FAM86A",13,"Input Gene","Stage_3",1
+"FAT3",13,"Input Gene","Stage_3",1
+"FOXF1",13,"Input Gene","Stage_3",1
+"GPR107",13,"Input Gene","Stage_3",1
+"GPR158",13,"Input Gene","Stage_3",1
+"HDHD2",13,"Input Gene","Stage_3",1
+"HMBOX1",13,"Input Gene","Stage_3",1
+"IGSF10",13,"Input Gene","Stage_3",1
+"LHFP",13,"Input Gene","Stage_3",1
+"MGAT5",13,"Input Gene","Stage_3",1
+"MIEF1",13,"Input Gene","Stage_3",1
+"MMD",13,"Input Gene","Stage_3",1
+"MMGT1",13,"Input Gene","Stage_3",1
+"PCMTD1",13,"Input Gene","Stage_3",1
+"PHF21B",13,"Input Gene","Stage_3",1
+"PIKFYVE",13,"Input Gene","Stage_3",1
+"PPP1R18",13,"Input Gene","Stage_3",1
+"PRSS36",13,"Input Gene","Stage_3",1
+"RFTN2",13,"Input Gene","Stage_3",1
+"RIMKLB",13,"Input Gene","Stage_3",1
+"RNF169",13,"Input Gene","Stage_3",1
+"SGIP1",13,"Input Gene","Stage_3",1
+"SLITRK1",13,"Input Gene","Stage_3",1
+"SNN",13,"Input Gene","Stage_3",1
+"SULF1",13,"Input Gene","Stage_3",1
+"SYDE1",13,"Input Gene","Stage_3",1
+"TBX18",13,"Input Gene","Stage_3",1
+"TSC22D2",13,"Input Gene","Stage_3",1
+"VASH2",13,"Input Gene","Stage_3",1
+"WAVE3",13,"Input Gene","Stage_3",1
+"ZCCHC24",13,"Input Gene","Stage_3",1
+"ZEB4",13,"Input Gene","Stage_3",1
+"ZNF322",13,"Input Gene","Stage_3",1
+"ZNF532",13,"Input Gene","Stage_3",1
+"ZSWIM6",13,"Input Gene","Stage_3",1
+"DENENICOKIN",13,"NovelDrug","Stage_3",1

@@ -1,0 +1,26 @@
+Info: Stage_3_NoCandidates
+-------------------------------
+Original geneset: 
+Total: 198
+Connected: 74
+Disconnected: 124
+Uncovered: 0
+Context Size: 3577
+-------------------------------
+Final Network: 
+# Nodes: 198
+# Edges: 112
+ Orig # Communities: 138
+Final # Communities: 10
+Overall Connectivity p-value: 0.07
+-------------------------------
+Community Summaries: 
+Community: 1 Size: 8 Connectivity P-value: < 2e-03,  # Enriched Genesets: 0
+Community: 2 Size: 13 Connectivity P-value: < 2e-03,  # Enriched Genesets: 0
+Community: 3 Size: 7 Connectivity P-value: < 2e-03,  # Enriched Genesets: 0
+Community: 4 Size: 6 Connectivity P-value: < 2e-03,  # Enriched Genesets: 0
+Community: 5 Size: 8 Connectivity P-value: < 2e-03,  # Enriched Genesets: 1
+Community: 6 Size: 5 Connectivity P-value: < 2e-03,  # Enriched Genesets: 0
+Community: 7 Size: 5 Connectivity P-value: < 2e-03,  # Enriched Genesets: 0
+Community: 8 Size: 5 Connectivity P-value: < 2e-03,  # Enriched Genesets: 3
+Community: 9 Size: 7 Connectivity P-value: < 2e-03,  # Enriched Genesets: 0
